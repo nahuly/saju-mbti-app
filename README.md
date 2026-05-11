@@ -1,5 +1,7 @@
 # MBTI × 사주 — 당신만의 색깔
 
+🔗 **Live**: [nahuly-saju.vercel.app](https://nahuly-saju.vercel.app/)
+
 MBTI와 사주팔자를 함께 풀어 "당신만의 색깔"을 보여주는 인터랙티브 해석 앱.
 
 정적 텍스트(MBTI / 일주 / 시주 해석)는 페이지 로드와 동시에 보이고,
